@@ -8,6 +8,7 @@
 ![physical](./pictures/t_func.PNG)
 
 Theta si Csi reprezinta unghiurile de tangaj, respectiv giratie
+
 Vvert si Voriz sunt tensiunile electrice furnizate motoarelor din plan vertical, resepectiv orizontal
 
 Ptan este functia ce caractertizeaza rotatia in plan verical
